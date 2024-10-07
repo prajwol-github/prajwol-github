@@ -1,7 +1,6 @@
 #  Hey! This is Prajwol's Profile:
 💫 Mobile Application Developer | Jr. Software Engineer <br>🌱 I’m currently learning Machine Learning with Image Processing<br>💬 Wanna have chat? Feel free to contact me via social media handles below
 
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrestha-prajwol) 
 
@@ -14,12 +13,3 @@
 ### ✍️ Quote to make you wise
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Just Dev Memes
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-prajwol-github/prajwol-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
