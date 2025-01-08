@@ -1,5 +1,5 @@
 #  Hey! This is Prajwol's Profile:
-💫 Mobile Application Developer | Jr. Software Engineer <br>🌱 I’m currently learning Machine Learning with Image Processing<br>💬 Wanna have chat? Feel free to contact me via social media handles below
+Mobile Application Developer | Jr. Software Engineer <br>I’m currently learning Machine Learning with Image Processing<br>Wanna have chat? Feel free to contact me via social media handles below
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrestha-prajwol) 
